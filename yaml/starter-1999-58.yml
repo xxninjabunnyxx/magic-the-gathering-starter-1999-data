@@ -1,0 +1,106 @@
+---
+object: card
+id: 12b944ea-add5-4806-a33e-264cc96a4a0e
+oracle_id: b446c3bd-3c7d-4d59-ba59-3dd80818465e
+multiverse_ids:
+- 21045
+tcgplayer_id: 406
+cardmarket_id: 14492
+name: Undo
+lang: en
+released_at: '1999-07-01'
+uri: https://api.scryfall.com/cards/12b944ea-add5-4806-a33e-264cc96a4a0e
+scryfall_uri: https://scryfall.com/card/s99/58/undo?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/1/2/12b944ea-add5-4806-a33e-264cc96a4a0e.jpg?1562873577
+  normal: https://cards.scryfall.io/normal/front/1/2/12b944ea-add5-4806-a33e-264cc96a4a0e.jpg?1562873577
+  large: https://cards.scryfall.io/large/front/1/2/12b944ea-add5-4806-a33e-264cc96a4a0e.jpg?1562873577
+  png: https://cards.scryfall.io/png/front/1/2/12b944ea-add5-4806-a33e-264cc96a4a0e.png?1562873577
+  art_crop: https://cards.scryfall.io/art_crop/front/1/2/12b944ea-add5-4806-a33e-264cc96a4a0e.jpg?1562873577
+  border_crop: https://cards.scryfall.io/border_crop/front/1/2/12b944ea-add5-4806-a33e-264cc96a4a0e.jpg?1562873577
+mana_cost: "{1}{U}{U}"
+cmc: 3.0
+type_line: Sorcery
+oracle_text: Return two target creatures to their owners' hands.
+colors:
+- U
+color_identity:
+- U
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: legal
+  duel: legal
+  oldschool: not_legal
+  premodern: legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: 7e345c51-7a88-4c7a-8184-4e1ba493b40d
+set: s99
+set_name: Starter 1999
+set_type: starter
+set_uri: https://api.scryfall.com/sets/7e345c51-7a88-4c7a-8184-4e1ba493b40d
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3As99&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/s99?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/12b944ea-add5-4806-a33e-264cc96a4a0e/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ab446c3bd-3c7d-4d59-ba59-3dd80818465e&unique=prints
+collector_number: '58'
+digital: false
+rarity: uncommon
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Terese Nielsen
+artist_ids:
+- eb55171c-2342-45f4-a503-2d5a75baf752
+illustration_id: c88c22ec-e2c5-43d3-8a9c-96ed477d8f9b
+border_color: white
+frame: '1997'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 20979
+penny_rank: 14572
+prices:
+  usd: '0.26'
+  usd_foil: 
+  usd_etched: 
+  eur: '0.45'
+  eur_foil: 
+  tix: 
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=21045
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Undo&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Undo&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Undo
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/406?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Undo&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Undo&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

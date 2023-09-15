@@ -1,0 +1,110 @@
+---
+object: card
+id: a7a4a023-8867-4fb4-baf9-df7540b61725
+oracle_id: 67a3541c-8408-40c8-b44f-90035b860f57
+multiverse_ids:
+- 21038
+tcgplayer_id: 335
+cardmarket_id: 14475
+name: Man-o'-War
+lang: en
+released_at: '1999-07-01'
+uri: https://api.scryfall.com/cards/a7a4a023-8867-4fb4-baf9-df7540b61725
+scryfall_uri: https://scryfall.com/card/s99/41/man-o-war?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/a/7/a7a4a023-8867-4fb4-baf9-df7540b61725.jpg?1562875035
+  normal: https://cards.scryfall.io/normal/front/a/7/a7a4a023-8867-4fb4-baf9-df7540b61725.jpg?1562875035
+  large: https://cards.scryfall.io/large/front/a/7/a7a4a023-8867-4fb4-baf9-df7540b61725.jpg?1562875035
+  png: https://cards.scryfall.io/png/front/a/7/a7a4a023-8867-4fb4-baf9-df7540b61725.png?1562875035
+  art_crop: https://cards.scryfall.io/art_crop/front/a/7/a7a4a023-8867-4fb4-baf9-df7540b61725.jpg?1562875035
+  border_crop: https://cards.scryfall.io/border_crop/front/a/7/a7a4a023-8867-4fb4-baf9-df7540b61725.jpg?1562875035
+mana_cost: "{2}{U}"
+cmc: 3.0
+type_line: Creature — Jellyfish
+oracle_text: When Man-o'-War enters the battlefield, return target creature to its
+  owner's hand.
+power: '2'
+toughness: '2'
+colors:
+- U
+color_identity:
+- U
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: legal
+  gladiator: legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: legal
+  alchemy: not_legal
+  paupercommander: legal
+  duel: legal
+  oldschool: not_legal
+  premodern: legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: 7e345c51-7a88-4c7a-8184-4e1ba493b40d
+set: s99
+set_name: Starter 1999
+set_type: starter
+set_uri: https://api.scryfall.com/sets/7e345c51-7a88-4c7a-8184-4e1ba493b40d
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3As99&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/s99?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/a7a4a023-8867-4fb4-baf9-df7540b61725/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A67a3541c-8408-40c8-b44f-90035b860f57&unique=prints
+collector_number: '41'
+digital: false
+rarity: uncommon
+flavor_text: Beauty to the eye does not always translate to the touch.
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Una Fricker
+artist_ids:
+- 0471a371-1bf8-49f2-8e76-cbe3a0bfa7e8
+illustration_id: 988e4753-37d0-4b2e-8b08-bd3f84077be1
+border_color: white
+frame: '1997'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 4553
+penny_rank: 1759
+prices:
+  usd: '2.25'
+  usd_foil: 
+  usd_etched: 
+  eur: '0.50'
+  eur_foil: 
+  tix: 
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=21038
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Man-o%27-War&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Man-o%27-War&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Man-o%27-War
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/335?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Man-o%27-War&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Man-o%27-War&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

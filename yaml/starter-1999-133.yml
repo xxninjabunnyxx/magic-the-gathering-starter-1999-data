@@ -1,0 +1,112 @@
+---
+object: card
+id: 5d23803e-9936-42d0-8ab2-9b78c3d2e89d
+oracle_id: 1e41136b-afa7-45ee-8d04-d0c7514b5387
+multiverse_ids:
+- 20229
+tcgplayer_id: 340
+cardmarket_id: 14567
+name: Moon Sprite
+lang: en
+released_at: '1999-07-01'
+uri: https://api.scryfall.com/cards/5d23803e-9936-42d0-8ab2-9b78c3d2e89d
+scryfall_uri: https://scryfall.com/card/s99/133/moon-sprite?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/5/d/5d23803e-9936-42d0-8ab2-9b78c3d2e89d.jpg?1562874089
+  normal: https://cards.scryfall.io/normal/front/5/d/5d23803e-9936-42d0-8ab2-9b78c3d2e89d.jpg?1562874089
+  large: https://cards.scryfall.io/large/front/5/d/5d23803e-9936-42d0-8ab2-9b78c3d2e89d.jpg?1562874089
+  png: https://cards.scryfall.io/png/front/5/d/5d23803e-9936-42d0-8ab2-9b78c3d2e89d.png?1562874089
+  art_crop: https://cards.scryfall.io/art_crop/front/5/d/5d23803e-9936-42d0-8ab2-9b78c3d2e89d.jpg?1562874089
+  border_crop: https://cards.scryfall.io/border_crop/front/5/d/5d23803e-9936-42d0-8ab2-9b78c3d2e89d.jpg?1562874089
+mana_cost: "{1}{G}"
+cmc: 2.0
+type_line: Creature — Faerie
+oracle_text: Flying
+power: '1'
+toughness: '1'
+colors:
+- G
+color_identity:
+- G
+keywords:
+- Flying
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: not_legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: restricted
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: 7e345c51-7a88-4c7a-8184-4e1ba493b40d
+set: s99
+set_name: Starter 1999
+set_type: starter
+set_uri: https://api.scryfall.com/sets/7e345c51-7a88-4c7a-8184-4e1ba493b40d
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3As99&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/s99?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/5d23803e-9936-42d0-8ab2-9b78c3d2e89d/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A1e41136b-afa7-45ee-8d04-d0c7514b5387&unique=prints
+collector_number: '133'
+digital: false
+rarity: uncommon
+flavor_text: |-
+  "I am that merry wanderer of the night."
+  —William Shakespeare,
+  *A Midsummer Night's Dream*
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Terese Nielsen
+artist_ids:
+- eb55171c-2342-45f4-a503-2d5a75baf752
+illustration_id: 157bd03a-dfdc-4b13-a768-1d6989300fe8
+border_color: white
+frame: '1997'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 23401
+prices:
+  usd: '0.21'
+  usd_foil: 
+  usd_etched: 
+  eur: '0.21'
+  eur_foil: 
+  tix: 
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=20229
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Moon+Sprite&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Moon+Sprite&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Moon+Sprite
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/340?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Moon+Sprite&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Moon+Sprite&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

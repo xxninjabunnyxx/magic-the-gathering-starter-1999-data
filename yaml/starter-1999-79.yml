@@ -1,0 +1,109 @@
+---
+object: card
+id: ff00e877-3588-4ba9-a1f2-86f726157017
+oracle_id: e62f8d69-a559-4f13-a5c9-5fb750b4af2c
+multiverse_ids:
+- 20359
+tcgplayer_id: 316
+cardmarket_id: 14513
+name: Grim Tutor
+lang: en
+released_at: '1999-07-01'
+uri: https://api.scryfall.com/cards/ff00e877-3588-4ba9-a1f2-86f726157017
+scryfall_uri: https://scryfall.com/card/s99/79/grim-tutor?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/f/f/ff00e877-3588-4ba9-a1f2-86f726157017.jpg?1562875754
+  normal: https://cards.scryfall.io/normal/front/f/f/ff00e877-3588-4ba9-a1f2-86f726157017.jpg?1562875754
+  large: https://cards.scryfall.io/large/front/f/f/ff00e877-3588-4ba9-a1f2-86f726157017.jpg?1562875754
+  png: https://cards.scryfall.io/png/front/f/f/ff00e877-3588-4ba9-a1f2-86f726157017.png?1562875754
+  art_crop: https://cards.scryfall.io/art_crop/front/f/f/ff00e877-3588-4ba9-a1f2-86f726157017.jpg?1562875754
+  border_crop: https://cards.scryfall.io/border_crop/front/f/f/ff00e877-3588-4ba9-a1f2-86f726157017.jpg?1562875754
+mana_cost: "{1}{B}{B}"
+cmc: 3.0
+type_line: Sorcery
+oracle_text: Search your library for a card, put that card into your hand, then shuffle.
+  You lose 3 life.
+colors:
+- B
+color_identity:
+- B
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: legal
+  gladiator: legal
+  pioneer: legal
+  explorer: legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: not_legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: 7e345c51-7a88-4c7a-8184-4e1ba493b40d
+set: s99
+set_name: Starter 1999
+set_type: starter
+set_uri: https://api.scryfall.com/sets/7e345c51-7a88-4c7a-8184-4e1ba493b40d
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3As99&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/s99?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/ff00e877-3588-4ba9-a1f2-86f726157017/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ae62f8d69-a559-4f13-a5c9-5fb750b4af2c&unique=prints
+collector_number: '79'
+digital: false
+rarity: rare
+flavor_text: |-
+  One who goes unpunished never learns.
+  —Greek proverb
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Mark Tedin
+artist_ids:
+- 9ee9a9cc-c09e-486f-918b-69f80cbc4188
+illustration_id: 3cb6b72c-2ab1-4afb-a4a0-7dd435494253
+border_color: white
+frame: '1997'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 410
+prices:
+  usd: '64.95'
+  usd_foil: 
+  usd_etched: 
+  eur: '74.00'
+  eur_foil: 
+  tix: 
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=20359
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Grim+Tutor&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Grim+Tutor&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Grim+Tutor
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/316?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Grim+Tutor&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Grim+Tutor&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

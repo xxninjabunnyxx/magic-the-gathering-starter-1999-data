@@ -1,0 +1,17 @@
+---
+object: set
+id: 7e345c51-7a88-4c7a-8184-4e1ba493b40d
+code: s99
+tcgplayer_id: 105
+name: Starter 1999
+uri: https://api.scryfall.com/sets/7e345c51-7a88-4c7a-8184-4e1ba493b40d
+scryfall_uri: https://scryfall.com/sets/s99
+search_uri: https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3As99&unique=prints
+released_at: '1999-07-01'
+set_type: starter
+card_count: 173
+printed_size: 173
+digital: false
+nonfoil_only: true
+foil_only: false
+icon_svg_uri: https://svgs.scryfall.io/sets/s99.svg?1694404800

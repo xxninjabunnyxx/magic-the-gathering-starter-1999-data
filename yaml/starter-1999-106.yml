@@ -1,0 +1,109 @@
+---
+object: card
+id: 7525100d-32f9-464b-b0c8-0767c3b730b7
+oracle_id: 04dd449f-ff3a-4ed7-8241-244d58b371dc
+multiverse_ids:
+- 20216
+tcgplayer_id: 313
+cardmarket_id: 14540
+name: Goblin Settler
+lang: en
+released_at: '1999-07-01'
+uri: https://api.scryfall.com/cards/7525100d-32f9-464b-b0c8-0767c3b730b7
+scryfall_uri: https://scryfall.com/card/s99/106/goblin-settler?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/7/5/7525100d-32f9-464b-b0c8-0767c3b730b7.jpg?1562874554
+  normal: https://cards.scryfall.io/normal/front/7/5/7525100d-32f9-464b-b0c8-0767c3b730b7.jpg?1562874554
+  large: https://cards.scryfall.io/large/front/7/5/7525100d-32f9-464b-b0c8-0767c3b730b7.jpg?1562874554
+  png: https://cards.scryfall.io/png/front/7/5/7525100d-32f9-464b-b0c8-0767c3b730b7.png?1562874554
+  art_crop: https://cards.scryfall.io/art_crop/front/7/5/7525100d-32f9-464b-b0c8-0767c3b730b7.jpg?1562874554
+  border_crop: https://cards.scryfall.io/border_crop/front/7/5/7525100d-32f9-464b-b0c8-0767c3b730b7.jpg?1562874554
+mana_cost: "{3}{R}"
+cmc: 4.0
+type_line: Creature — Goblin
+oracle_text: When Goblin Settler enters the battlefield, destroy target land.
+power: '1'
+toughness: '1'
+colors:
+- R
+color_identity:
+- R
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: restricted
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: 7e345c51-7a88-4c7a-8184-4e1ba493b40d
+set: s99
+set_name: Starter 1999
+set_type: starter
+set_uri: https://api.scryfall.com/sets/7e345c51-7a88-4c7a-8184-4e1ba493b40d
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3As99&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/s99?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/7525100d-32f9-464b-b0c8-0767c3b730b7/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A04dd449f-ff3a-4ed7-8241-244d58b371dc&unique=prints
+collector_number: '106'
+digital: false
+rarity: uncommon
+flavor_text: Be it ever so crumbled, there's no place like home.
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Carl Critchlow
+artist_ids:
+- 17948f16-611a-44b8-8d10-9895a0bdfff1
+illustration_id: bb0c4285-4285-4410-b31c-bb2e215a5e4b
+border_color: white
+frame: '1997'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 15106
+penny_rank: 2336
+prices:
+  usd: '17.81'
+  usd_foil: 
+  usd_etched: 
+  eur: '24.00'
+  eur_foil: 
+  tix: 
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=20216
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Goblin+Settler&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Goblin+Settler&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Goblin+Settler
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/313?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Goblin+Settler&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Goblin+Settler&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
